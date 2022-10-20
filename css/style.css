@@ -124,6 +124,7 @@ main {
 }
 
 .formulario__mensaje-exito {
+  text-align: center;
   font-size: 14px;
   color: #119200;
   display: none;
